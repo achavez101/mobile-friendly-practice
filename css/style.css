@@ -1,0 +1,26 @@
+#title{
+    background-color: aqua;
+    padding-top: 150px;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+#section1{
+    text-align: left;
+    font-size: 45px;
+}
+#section2{
+    text-align: right;
+    font-size: 45px;
+}
+#p1{
+    text-align: left;
+}
+#p2{
+    text-align: right;
+}
+article{
+    padding: 50px 50px 50px 50px;
+    background-color: greenyellow;
+}
